@@ -1,3 +1,5 @@
+check-mysql-slow
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
